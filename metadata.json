@@ -1,0 +1,5 @@
+{
+  "name": "ConnectSphere - A Mini Professional Network",
+  "description": "A mini LinkedIn-like community platform to create posts, view a public feed, and manage user profiles. Built with React and Tailwind CSS, this app simulates a professional social network.",
+  "requestFramePermissions": []
+}
